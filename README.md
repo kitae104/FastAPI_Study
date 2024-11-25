@@ -11,4 +11,4 @@ pip install fastapi
 pip install "uvicorn[standard]"
 
 4. 프로젝트 실행(main.py 일 경우)
-uvicorn main:app --port 8888 --reload
+uvicorn main:app --port 8080 --reload
